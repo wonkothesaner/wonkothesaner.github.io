@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Oxygen')
+
+// 1. Import the initial variables
+@import "../_bulma_source/sass/utilities/initial-variables"
+@import "../_bulma_source/sass/utilities/functions"
+
+// 2. Set your own initial variables
+// Update blue
+$blue: #72d0eb
+// Add pink and its invert
+$pink: #ffb3b3
+$pink-invert: #fff
+// Add a serif family
+$family-serif: "Merriweather", "Georgia", serif
+$family-sans-serif: "Oxygen", "Open Sans", "Verdana", sans-serif
+
+// 3. Set the derived variables
+// Use the new pink as the primary color
+$primary: $pink
+$primary-invert: $pink-invert
+// Use the existing orange as the danger color
+$danger: $orange
+// Use the new serif family
+$family-primary: $family-sans-serif
+
+// 4. Setup your Custom Colors
+$linkedin: #0077B5
+$linkedin-invert: findColorInvert($linkedin)
+$twitter: #1DA1F2
+$twitter-invert: findColorInvert($twitter)
+$github: #222222
+$github-invert: findColorInvert($github)
+
+// 5. Add new color variables to the color map.
+@import "../_bulma_source/sass/utilities/derived-variables.sass"
+$addColors: ("twitter": ($twitter, $twitter-invert),"linkedin": ($linkedin, $linkedin-invert),"github": ($github, $github-invert))
+$colors: map-merge($colors, $addColors)
+
+// 6. MJD specific adds
+// General site specific
+$grey-lightest: hsl(0,0%,88%)
+$grey-lightest-invert: findColorInvert($grey-lightest)
+$body-size: 12px
+// Links
+$link: $black
+$link-invert: findColorInvert($black)
+$link-visited: $black
+
+$link-hover: $grey-darker
+$link-hover-border: $grey-light
+
+$link-focus: $grey-darker
+$link-focus-border: $black
+
+$link-active: $grey-darker
+$link-active-border: $grey-dark
+// Pagination
+$pagination-color: $grey-darker
+$pagination-background-color: $grey-light
+$pagination-border-color: $grey-lighter
+$pagination-margin: -0.25rem
+$pagination-hover-color: $link-hover
+$pagination-hover-border-color: $link-hover-border
+$pagination-focus-color: $link-focus
+$pagination-focus-border-color: $link-focus-border
+$pagination-active-color: $grey-lighter
+$pagination-active-border-color: $link-active-border
+$pagination-disabled-color: $grey
+$pagination-disabled-background-color: $grey-lighter
+$pagination-disabled-border-color: $grey-lighter
+$pagination-current-color: $grey-lightest-invert
+$pagination-current-background-color: $grey-lightest
+$pagination-current-border-color: $grey-lightest
+$pagination-ellipsis-color: $grey-light
+//Footer
+$footer-background-color: $grey-lightest
+
+// 7. Import the rest of Bulma
+@import "../_bulma_source/bulma"

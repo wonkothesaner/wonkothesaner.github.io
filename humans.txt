@@ -8,12 +8,12 @@ Martin Driscoll -- author, owner and builder -- martin@wts.services -- twitter @
 # THANKS
 
 www.hexo.io
-Boostrap team @twitter
+Jeremy Thomas for Bulma @jgthms
 
 # TECHNOLOGY COLOPHON
 
 Standards:    CSS3, HTML5, JavaScript
-Components:    GitHub Pages, Bootstrap, jQuery, Font Awesome, Tether, Normalize.css, hexo powered by Node.js
-Software: NetBeans IDE 
-                         
-Version 1.0 : 2017/02/14 
+Components:    GitHub Pages, Bulma, Font Awesome, hexo powered by Node.js
+Software: SublimeText3
+
+Version 2.0 : 2017/11/14
