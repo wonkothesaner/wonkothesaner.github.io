@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.wts.services/"/>
-  <updated>2017-11-21T17:41:03.000Z</updated>
+  <updated>2017-11-23T14:01:49.000Z</updated>
   <id>http://www.wts.services/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://www.wts.services/2017/11/19/archive/"/>
     <id>http://www.wts.services/2017/11/19/archive/</id>
     <published>2017-11-19T20:48:48.000Z</published>
-    <updated>2017-11-21T17:41:03.000Z</updated>
+    <updated>2017-11-23T14:01:49.000Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
     
     </summary>
     
-      <category term="digital SAP" scheme="http://www.wts.services/categories/digital-sap/"/>
+      <category term="miscellany" scheme="http://www.wts.services/categories/miscellany/"/>
     
     
   </entry>
@@ -39,7 +39,7 @@
     <link href="http://www.wts.services/2017/11/09/stops/"/>
     <id>http://www.wts.services/2017/11/09/stops/</id>
     <published>2017-11-09T12:55:12.000Z</published>
-    <updated>2017-11-21T17:35:18.000Z</updated>
+    <updated>2017-11-23T14:01:44.000Z</updated>
     
     <summary type="html">
     
@@ -48,7 +48,7 @@
     
     </summary>
     
-      <category term="learning" scheme="http://www.wts.services/categories/learning/"/>
+      <category term="miscellany" scheme="http://www.wts.services/categories/miscellany/"/>
     
     
       <category term="hana" scheme="http://www.wts.services/tags/hana/"/>
@@ -71,9 +71,9 @@
       <category term="miscellany" scheme="http://www.wts.services/categories/miscellany/"/>
     
     
-      <category term="hana" scheme="http://www.wts.services/tags/hana/"/>
-    
       <category term="html" scheme="http://www.wts.services/tags/html/"/>
+    
+      <category term="hana" scheme="http://www.wts.services/tags/hana/"/>
     
   </entry>
   
@@ -82,7 +82,7 @@
     <link href="http://www.wts.services/2017/11/05/third-sap/"/>
     <id>http://www.wts.services/2017/11/05/third-sap/</id>
     <published>2017-11-05T20:53:55.000Z</published>
-    <updated>2017-11-21T12:51:14.000Z</updated>
+    <updated>2017-11-23T14:06:17.000Z</updated>
     
     <summary type="html">
     
@@ -90,7 +90,7 @@
     
     </summary>
     
-      <category term="learning" scheme="http://www.wts.services/categories/learning/"/>
+      <category term="learnings" scheme="http://www.wts.services/categories/learnings/"/>
     
     
       <category term="hana" scheme="http://www.wts.services/tags/hana/"/>
@@ -104,7 +104,7 @@
     <link href="http://www.wts.services/2017/11/05/first-learning/"/>
     <id>http://www.wts.services/2017/11/05/first-learning/</id>
     <published>2017-11-05T20:53:07.000Z</published>
-    <updated>2017-11-21T07:10:44.000Z</updated>
+    <updated>2017-11-23T14:01:30.000Z</updated>
     
     <summary type="html">
     
@@ -112,7 +112,7 @@
     
     </summary>
     
-      <category term="learning" scheme="http://www.wts.services/categories/learning/"/>
+      <category term="miscellany" scheme="http://www.wts.services/categories/miscellany/"/>
     
     
       <category term="other" scheme="http://www.wts.services/tags/other/"/>
@@ -124,7 +124,7 @@
     <link href="http://www.wts.services/2017/10/05/here-we-go/"/>
     <id>http://www.wts.services/2017/10/05/here-we-go/</id>
     <published>2017-10-05T20:48:16.000Z</published>
-    <updated>2017-11-22T10:31:54.000Z</updated>
+    <updated>2017-11-23T14:06:09.000Z</updated>
     
     <summary type="html">
     
@@ -132,14 +132,14 @@
     
     </summary>
     
-      <category term="learning" scheme="http://www.wts.services/categories/learning/"/>
+      <category term="digital" scheme="http://www.wts.services/categories/digital/"/>
     
     
       <category term="method" scheme="http://www.wts.services/tags/method/"/>
     
-      <category term="html" scheme="http://www.wts.services/tags/html/"/>
-    
       <category term="other" scheme="http://www.wts.services/tags/other/"/>
+    
+      <category term="html" scheme="http://www.wts.services/tags/html/"/>
     
   </entry>
   
@@ -148,7 +148,7 @@
     <link href="http://www.wts.services/2017/10/04/second-learning/"/>
     <id>http://www.wts.services/2017/10/04/second-learning/</id>
     <published>2017-10-04T20:53:41.000Z</published>
-    <updated>2017-11-21T07:09:50.000Z</updated>
+    <updated>2017-11-23T14:06:11.000Z</updated>
     
     <summary type="html">
     
@@ -156,7 +156,7 @@
     
     </summary>
     
-      <category term="learning" scheme="http://www.wts.services/categories/learning/"/>
+      <category term="digital" scheme="http://www.wts.services/categories/digital/"/>
     
     
       <category term="method" scheme="http://www.wts.services/tags/method/"/>
@@ -172,7 +172,7 @@
     <link href="http://www.wts.services/2016/11/09/the-first-gloss/"/>
     <id>http://www.wts.services/2016/11/09/the-first-gloss/</id>
     <published>2016-11-09T12:55:12.000Z</published>
-    <updated>2017-11-21T16:12:20.000Z</updated>
+    <updated>2017-11-23T14:06:00.000Z</updated>
     
     <summary type="html">
     
@@ -196,14 +196,14 @@
     
     </summary>
     
-      <category term="miscellany" scheme="http://www.wts.services/categories/miscellany/"/>
+      <category term="learnings" scheme="http://www.wts.services/categories/learnings/"/>
     
     
       <category term="method" scheme="http://www.wts.services/tags/method/"/>
     
-      <category term="hana" scheme="http://www.wts.services/tags/hana/"/>
-    
       <category term="html" scheme="http://www.wts.services/tags/html/"/>
+    
+      <category term="hana" scheme="http://www.wts.services/tags/hana/"/>
     
       <category term="css" scheme="http://www.wts.services/tags/css/"/>
     
@@ -214,7 +214,7 @@
     <link href="http://www.wts.services/2016/10/12/third-learning/"/>
     <id>http://www.wts.services/2016/10/12/third-learning/</id>
     <published>2016-10-12T20:53:48.000Z</published>
-    <updated>2017-11-21T07:09:43.000Z</updated>
+    <updated>2017-11-23T14:05:56.000Z</updated>
     
     <summary type="html">
     
@@ -222,7 +222,7 @@
     
     </summary>
     
-      <category term="learning" scheme="http://www.wts.services/categories/learning/"/>
+      <category term="learnings" scheme="http://www.wts.services/categories/learnings/"/>
     
     
       <category term="method" scheme="http://www.wts.services/tags/method/"/>
@@ -234,7 +234,7 @@
     <link href="http://www.wts.services/2016/10/05/going-digital/"/>
     <id>http://www.wts.services/2016/10/05/going-digital/</id>
     <published>2016-10-05T20:41:33.000Z</published>
-    <updated>2017-11-20T09:09:42.000Z</updated>
+    <updated>2017-11-23T14:05:51.000Z</updated>
     
     <summary type="html">
     
@@ -243,7 +243,7 @@
     
     </summary>
     
-      <category term="digital SAP" scheme="http://www.wts.services/categories/digital-sap/"/>
+      <category term="learnings" scheme="http://www.wts.services/categories/learnings/"/>
     
     
       <category term="method" scheme="http://www.wts.services/tags/method/"/>
