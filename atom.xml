@@ -71,9 +71,9 @@
       <category term="miscellany" scheme="http://www.wts.services/categories/miscellany/"/>
     
     
-      <category term="html" scheme="http://www.wts.services/tags/html/"/>
-    
       <category term="hana" scheme="http://www.wts.services/tags/hana/"/>
+    
+      <category term="html" scheme="http://www.wts.services/tags/html/"/>
     
   </entry>
   
@@ -137,9 +137,9 @@
     
       <category term="method" scheme="http://www.wts.services/tags/method/"/>
     
-      <category term="other" scheme="http://www.wts.services/tags/other/"/>
-    
       <category term="html" scheme="http://www.wts.services/tags/html/"/>
+    
+      <category term="other" scheme="http://www.wts.services/tags/other/"/>
     
   </entry>
   
@@ -201,9 +201,9 @@
     
       <category term="method" scheme="http://www.wts.services/tags/method/"/>
     
-      <category term="html" scheme="http://www.wts.services/tags/html/"/>
-    
       <category term="hana" scheme="http://www.wts.services/tags/hana/"/>
+    
+      <category term="html" scheme="http://www.wts.services/tags/html/"/>
     
       <category term="css" scheme="http://www.wts.services/tags/css/"/>
     
