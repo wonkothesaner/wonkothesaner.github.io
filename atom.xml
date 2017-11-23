@@ -93,9 +93,9 @@
       <category term="learning" scheme="http://www.wts.services/categories/learning/"/>
     
     
-      <category term="css" scheme="http://www.wts.services/tags/css/"/>
-    
       <category term="hana" scheme="http://www.wts.services/tags/hana/"/>
+    
+      <category term="css" scheme="http://www.wts.services/tags/css/"/>
     
   </entry>
   
@@ -137,9 +137,9 @@
     
       <category term="method" scheme="http://www.wts.services/tags/method/"/>
     
-      <category term="html" scheme="http://www.wts.services/tags/html/"/>
-    
       <category term="other" scheme="http://www.wts.services/tags/other/"/>
+    
+      <category term="html" scheme="http://www.wts.services/tags/html/"/>
     
   </entry>
   
@@ -203,9 +203,9 @@
     
       <category term="html" scheme="http://www.wts.services/tags/html/"/>
     
-      <category term="css" scheme="http://www.wts.services/tags/css/"/>
-    
       <category term="hana" scheme="http://www.wts.services/tags/hana/"/>
+    
+      <category term="css" scheme="http://www.wts.services/tags/css/"/>
     
   </entry>
   
