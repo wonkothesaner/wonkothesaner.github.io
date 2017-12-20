@@ -71,9 +71,9 @@
       <category term="miscellany" scheme="http://www.wts.services/categories/miscellany/"/>
     
     
-      <category term="html" scheme="http://www.wts.services/tags/html/"/>
-    
       <category term="hana" scheme="http://www.wts.services/tags/hana/"/>
+    
+      <category term="html" scheme="http://www.wts.services/tags/html/"/>
     
   </entry>
   
@@ -137,9 +137,9 @@
     
       <category term="method" scheme="http://www.wts.services/tags/method/"/>
     
-      <category term="other" scheme="http://www.wts.services/tags/other/"/>
-    
       <category term="html" scheme="http://www.wts.services/tags/html/"/>
+    
+      <category term="other" scheme="http://www.wts.services/tags/other/"/>
     
   </entry>
   
@@ -201,9 +201,9 @@
     
       <category term="method" scheme="http://www.wts.services/tags/method/"/>
     
-      <category term="html" scheme="http://www.wts.services/tags/html/"/>
-    
       <category term="hana" scheme="http://www.wts.services/tags/hana/"/>
+    
+      <category term="html" scheme="http://www.wts.services/tags/html/"/>
     
       <category term="css" scheme="http://www.wts.services/tags/css/"/>
     
@@ -230,11 +230,11 @@
   </entry>
   
   <entry>
-    <title>Going Digital</title>
-    <link href="http://www.wts.services/2016/10/05/going-digital/"/>
-    <id>http://www.wts.services/2016/10/05/going-digital/</id>
+    <title>Getting Started</title>
+    <link href="http://www.wts.services/2016/10/05/getting-started/"/>
+    <id>http://www.wts.services/2016/10/05/getting-started/</id>
     <published>2016-10-05T20:41:33.000Z</published>
-    <updated>2017-11-23T14:05:51.000Z</updated>
+    <updated>2017-11-23T19:35:24.000Z</updated>
     
     <summary type="html">
     
@@ -243,10 +243,10 @@
     
     </summary>
     
-      <category term="learnings" scheme="http://www.wts.services/categories/learnings/"/>
+      <category term="digital" scheme="http://www.wts.services/categories/digital/"/>
     
     
-      <category term="method" scheme="http://www.wts.services/tags/method/"/>
+      <category term="thoughts" scheme="http://www.wts.services/tags/thoughts/"/>
     
   </entry>
   

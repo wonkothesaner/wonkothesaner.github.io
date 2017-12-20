@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.wts.services/services.html</loc>
+    
+    <lastmod>2017-12-20T10:24:51.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.wts.services/2016/10/05/getting-started/</loc>
+    
+    <lastmod>2017-11-23T19:35:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.wts.services/2017/11/05/third-sap/</loc>
     
     <lastmod>2017-11-23T14:06:17.000Z</lastmod>
@@ -37,13 +51,6 @@
   </url>
   
   <url>
-    <loc>http://www.wts.services/2016/10/05/going-digital/</loc>
-    
-    <lastmod>2017-11-23T14:05:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.wts.services/2017/11/19/archive/</loc>
     
     <lastmod>2017-11-23T14:01:49.000Z</lastmod>
@@ -68,13 +75,6 @@
     <loc>http://www.wts.services/tags/index.html</loc>
     
     <lastmod>2017-11-23T13:02:15.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.wts.services/services.html</loc>
-    
-    <lastmod>2017-11-23T13:02:08.000Z</lastmod>
     
   </url>
   
