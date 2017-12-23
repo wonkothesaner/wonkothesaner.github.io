@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.wts.services/"/>
-  <updated>2017-12-23T16:12:52.000Z</updated>
+  <updated>2017-12-23T16:25:37.000Z</updated>
   <id>http://www.wts.services/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Page Rank</title>
+    <link href="http://www.wts.services/2017/12/23/page-rank/"/>
+    <id>http://www.wts.services/2017/12/23/page-rank/</id>
+    <published>2017-12-23T16:17:57.000Z</published>
+    <updated>2017-12-23T16:25:37.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;The way things stand on 23rd December 2017, the page ranks no higher than 4th on the 5th page of google.com.&lt;/p&gt;
+&lt;p&gt;I will make some
+        
+      
+    
+    </summary>
+    
+      <category term="programme" scheme="http://www.wts.services/categories/programme/"/>
+    
+    
+      <category term="internet" scheme="http://www.wts.services/tags/internet/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Digital SAP</title>
     <link href="http://www.wts.services/2017/11/19/digital-sap/"/>
     <id>http://www.wts.services/2017/11/19/digital-sap/</id>
     <published>2017-11-19T20:48:48.000Z</published>
-    <updated>2017-12-23T16:12:52.000Z</updated>
+    <updated>2017-12-23T16:19:50.000Z</updated>
     
     <summary type="html">
     
@@ -42,7 +69,7 @@
     <link href="http://www.wts.services/2016/10/12/desert-island/"/>
     <id>http://www.wts.services/2016/10/12/desert-island/</id>
     <published>2016-10-12T20:53:48.000Z</published>
-    <updated>2017-12-23T16:02:56.000Z</updated>
+    <updated>2017-12-23T16:22:21.000Z</updated>
     
     <summary type="html">
     
@@ -63,7 +90,7 @@
     <link href="http://www.wts.services/2015/05/25/getting-started/"/>
     <id>http://www.wts.services/2015/05/25/getting-started/</id>
     <published>2015-05-25T20:41:33.000Z</published>
-    <updated>2017-12-23T16:03:03.000Z</updated>
+    <updated>2017-12-23T16:21:44.000Z</updated>
     
     <summary type="html">
     
