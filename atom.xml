@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.wts.services/"/>
-  <updated>2017-11-23T14:01:49.000Z</updated>
+  <updated>2017-12-23T16:12:52.000Z</updated>
   <id>http://www.wts.services/</id>
   
   <author>
@@ -17,229 +17,16 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Archive</title>
-    <link href="http://www.wts.services/2017/11/19/archive/"/>
-    <id>http://www.wts.services/2017/11/19/archive/</id>
+    <title>Digital SAP</title>
+    <link href="http://www.wts.services/2017/11/19/digital-sap/"/>
+    <id>http://www.wts.services/2017/11/19/digital-sap/</id>
     <published>2017-11-19T20:48:48.000Z</published>
-    <updated>2017-11-23T14:01:49.000Z</updated>
+    <updated>2017-12-23T16:12:52.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt; Sublime after NetBeans - ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="miscellany" scheme="http://www.wts.services/categories/miscellany/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Stops</title>
-    <link href="http://www.wts.services/2017/11/09/stops/"/>
-    <id>http://www.wts.services/2017/11/09/stops/</id>
-    <published>2017-11-09T12:55:12.000Z</published>
-    <updated>2017-11-23T14:01:44.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;This is a new post to trigger page This is a new post to trigger pageThis is a new post to trigger pageThis is a new post to trigger pageThis is a new post to trigger pageThis is a new post to trigger pageThis is a new post to trigger pageThis is a new post to trigger pageThis is a new post to trigger pageThis is a new post to trigger pageThis is a new post to trigger pageThis is a new post to trigger page&lt;/p&gt;
-&lt;p&gt;
-    
-    </summary>
-    
-      <category term="miscellany" scheme="http://www.wts.services/categories/miscellany/"/>
-    
-    
-      <category term="hana" scheme="http://www.wts.services/tags/hana/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Miscellany</title>
-    <link href="http://www.wts.services/2017/11/05/miscellany/"/>
-    <id>http://www.wts.services/2017/11/05/miscellany/</id>
-    <published>2017-11-05T21:04:13.000Z</published>
-    <updated>2017-11-21T17:22:45.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;First miscellaneous post.&lt;br&gt; Sublime after NetBeans - ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="miscellany" scheme="http://www.wts.services/categories/miscellany/"/>
-    
-    
-      <category term="hana" scheme="http://www.wts.services/tags/hana/"/>
-    
-      <category term="html" scheme="http://www.wts.services/tags/html/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Third-Sap</title>
-    <link href="http://www.wts.services/2017/11/05/third-sap/"/>
-    <id>http://www.wts.services/2017/11/05/third-sap/</id>
-    <published>2017-11-05T20:53:55.000Z</published>
-    <updated>2017-12-22T09:06:24.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt; Sublime after NetBeans - ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="programme" scheme="http://www.wts.services/categories/programme/"/>
-    
-    
-      <category term="hana" scheme="http://www.wts.services/tags/hana/"/>
-    
-      <category term="css" scheme="http://www.wts.services/tags/css/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>First-Learning</title>
-    <link href="http://www.wts.services/2017/11/05/first-learning/"/>
-    <id>http://www.wts.services/2017/11/05/first-learning/</id>
-    <published>2017-11-05T20:53:07.000Z</published>
-    <updated>2017-11-23T14:01:30.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Sublime after NetBeans - ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="miscellany" scheme="http://www.wts.services/categories/miscellany/"/>
-    
-    
-      <category term="other" scheme="http://www.wts.services/tags/other/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Here We Go</title>
-    <link href="http://www.wts.services/2017/10/05/here-we-go/"/>
-    <id>http://www.wts.services/2017/10/05/here-we-go/</id>
-    <published>2017-10-05T20:48:16.000Z</published>
-    <updated>2017-12-22T09:09:39.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt; Sublime after NetBeans - ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="digital" scheme="http://www.wts.services/categories/digital/"/>
-    
-    
-      <category term="method" scheme="http://www.wts.services/tags/method/"/>
-    
-      <category term="html" scheme="http://www.wts.services/tags/html/"/>
-    
-      <category term="other" scheme="http://www.wts.services/tags/other/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Second-Learning</title>
-    <link href="http://www.wts.services/2017/10/04/second-learning/"/>
-    <id>http://www.wts.services/2017/10/04/second-learning/</id>
-    <published>2017-10-04T20:53:41.000Z</published>
-    <updated>2017-12-22T09:09:35.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Got to learn some first&lt;br&gt; Sublime after NetBeans - ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="digital" scheme="http://www.wts.services/categories/digital/"/>
-    
-    
-      <category term="method" scheme="http://www.wts.services/tags/method/"/>
-    
-      <category term="html" scheme="http://www.wts.services/tags/html/"/>
-    
-      <category term="css" scheme="http://www.wts.services/tags/css/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>The First Gloss</title>
-    <link href="http://www.wts.services/2016/11/09/the-first-gloss/"/>
-    <id>http://www.wts.services/2016/11/09/the-first-gloss/</id>
-    <published>2016-11-09T12:55:12.000Z</published>
-    <updated>2017-12-22T09:06:05.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;br&gt;
-&lt;div class=&quot;content&quot;&gt;
-
-&lt;h3 id=&quot;And-so-I-start…&quot;&gt;&lt;a href=&quot;#And-so-I-start…&quot; class=&quot;headerlink&quot; title=&quot;And so I start….&quot;&gt;&lt;/a&gt;And so I start….&lt;/h3&gt;
-&lt;/div&gt;
-&lt;div class=&quot;columns is-mobile&quot;&gt;
-&lt;div class=&quot;column is-four-fifths-mobile is-two-thirds-tablet is-three-quarters-desktop&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-
-&lt;blockquote&gt;&lt;p&gt;Take hold of the shaft of the pen.&lt;br&gt;Subscribe to the first step taken&lt;br&gt;from a justified line&lt;br&gt;into the margin.&lt;/p&gt;
-&lt;footer&gt;&lt;strong&gt;Seamus Heaney - &lt;/strong&gt;&lt;cite&gt;The First Gloss&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Not as a medieval monk annotating a religious text (anyone who knows me would cry foul if I claimed that), but as someone seeking to add a notes in the margins of the Internet.&lt;br&gt;&lt;br&gt;In the hope that others may find and use them.&lt;br&gt;
-    
-    </summary>
-    
-      <category term="programme" scheme="http://www.wts.services/categories/programme/"/>
-    
-    
-      <category term="method" scheme="http://www.wts.services/tags/method/"/>
-    
-      <category term="hana" scheme="http://www.wts.services/tags/hana/"/>
-    
-      <category term="html" scheme="http://www.wts.services/tags/html/"/>
-    
-      <category term="css" scheme="http://www.wts.services/tags/css/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Third Learning</title>
-    <link href="http://www.wts.services/2016/10/12/third-learning/"/>
-    <id>http://www.wts.services/2016/10/12/third-learning/</id>
-    <published>2016-10-12T20:53:48.000Z</published>
-    <updated>2017-12-22T09:05:50.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt; Sublime after NetBeans - ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="programme" scheme="http://www.wts.services/categories/programme/"/>
-    
-    
-      <category term="method" scheme="http://www.wts.services/tags/method/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Getting Started</title>
-    <link href="http://www.wts.services/2016/10/05/getting-started/"/>
-    <id>http://www.wts.services/2016/10/05/getting-started/</id>
-    <published>2016-10-05T20:41:33.000Z</published>
-    <updated>2017-12-22T09:09:27.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;This is the first second post&lt;/p&gt;
-&lt;p&gt; Sublime after NetBeans - ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit ipsum lorem ibit&lt;/p&gt;
+      &lt;!-- --&gt;
+&lt;p&gt;I left work in 2015 setting myself the challenge to learn what all the non-SAP people I worked with seemed to be calling ‘digital transformation’.  The best definition I could find at the time for ‘digital transformation’ was something like ‘delivering business change and adding value through the delivery of technology change’.  To me this sounded exactly the same thing that I had been doing for 20 years in the SAP space yet many seemed to be saying that SAP was old and ‘not digital’ while many other things (that I knew nothing of) were new and clearly ‘digital’.&lt;br&gt;&lt;!-- --&gt;&lt;br&gt;This did not make sense to me.  So I thought I would investigate further.&lt;br&gt;
     
     </summary>
     
@@ -247,6 +34,51 @@
     
     
       <category term="thoughts" scheme="http://www.wts.services/tags/thoughts/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Desert Island</title>
+    <link href="http://www.wts.services/2016/10/12/desert-island/"/>
+    <id>http://www.wts.services/2016/10/12/desert-island/</id>
+    <published>2016-10-12T20:53:48.000Z</published>
+    <updated>2017-12-23T16:02:56.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- --&gt;
+&lt;p&gt; Which discs would you take to your desert island?&lt;br&gt;&lt;!-- --&gt;&lt;br&gt; I have put off answering this question despite having listened attentively to Kirsty (and her predecessors) as she casts people away every week on &lt;a href=&quot;http://www.bbc.co.uk/programmes/b006qnmr&quot; title=&quot;DID&quot; target=&quot;_blank&quot;&gt;BBC Radio 4 Desert Island Discs&lt;/a&gt;.&lt;br&gt;&lt;!-- --&gt;&lt;br&gt;I reserve the right to change my mind….most especially because the first draft of the list looks a little melodramatic.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="miscellany" scheme="http://www.wts.services/categories/miscellany/"/>
+    
+    
+      <category term="thoughts" scheme="http://www.wts.services/tags/thoughts/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Getting Started</title>
+    <link href="http://www.wts.services/2015/05/25/getting-started/"/>
+    <id>http://www.wts.services/2015/05/25/getting-started/</id>
+    <published>2015-05-25T20:41:33.000Z</published>
+    <updated>2017-12-23T16:03:03.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;I like working hard.  I always have and I suspect I always will.&lt;br&gt;&lt;!-- --&gt;&lt;br&gt;For more than 20 years that hard work paid off handsomely.  I was rewarded hansomely (relative to most but certainly not as handsomely as some) and was able to travel the world both at work and at leisure.  I naturally seemed to make progress through the ranks and never felt like I needed a ‘five year plan’ or an answer to the standard “where do you want to get to” because that progress was my measure of success.&lt;br&gt;&lt;!-- --&gt;&lt;br&gt;As long as I kept progressing, having fun and working hard, I would be happy.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="programme" scheme="http://www.wts.services/categories/programme/"/>
+    
+    
+      <category term="html" scheme="http://www.wts.services/tags/html/"/>
+    
+      <category term="css" scheme="http://www.wts.services/tags/css/"/>
+    
+      <category term="javascript" scheme="http://www.wts.services/tags/javascript/"/>
     
   </entry>
   
